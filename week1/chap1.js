@@ -22,7 +22,7 @@ console.log(arr[3]); //100
 
  */
 
-/*
+
 
  let obj = {
     a:1,
@@ -37,4 +37,3 @@ console.log(arr[3]); //100
  console.log(obj.first+" "+obj.last); // ravi kumar 
  
 
- */
