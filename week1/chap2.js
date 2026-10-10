@@ -38,7 +38,7 @@ function Age(x){
     else if(x>=18){
         console.log('you can vote');
     }
-    else{
+    else{ 
         console.log("You can't vote");
     }
 }
