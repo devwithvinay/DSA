@@ -7,10 +7,10 @@
 
 - learning function and if else , else if
 
-### Chapter 3
+### Chapter 3 and 4
 
-- learning Loops ( for , while , do While )
-- for loop steps :-
+- learning Loops ( for , while)
+- loop steps :-
 
 1.  Initialization
 2.  Condition Check ( true/false )
