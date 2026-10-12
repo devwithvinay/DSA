@@ -6,3 +6,6 @@
 
 ### Chapter3
 - find the largest numaber of an array 
+
+### Chapter4
+- find the second largest number of an array
