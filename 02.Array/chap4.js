@@ -23,4 +23,4 @@ function secondLargest(arr) {
 let result = secondLargest(arr)
 console.log(result);
 
-// All corner cases handled
+// All corner cases handled 
